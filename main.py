@@ -26,7 +26,7 @@ class WeatherApp(QWidget):
 
     def initializeUI(self):
         self.setWindowTitle("Python Weather App")
-        self.setWindowIcon(QIcon("icon.png"))
+        self.setWindowIcon(QIcon("images/app_icon.png"))
         self.resize(700, 800)
 
         layout = QVBoxLayout()

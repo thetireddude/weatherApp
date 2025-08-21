@@ -60,13 +60,13 @@ To check the versions, run
 5. Click the **Sign in/ Sign up** buttom in the top right corner
 
 6. After logging into your account, navigate to your `{account} --> My API keys` in the top right
-<br><br><img src="account_dropdown.png" alt="account dropdown" width="175">
+<br><br><img src="images/account_dropdown.png" alt="account dropdown" width="175">
 
 7. Under **Create Key** click **Generate** to get your API key
-<br><br><img src="generate_key.png" alt="generating key" width="200">
+<br><br><img src="images/generate_key.png" alt="generating key" width="200">
 
 8. Once you get your key, copy your key. Make sure that the key is **Active**
-<br><br><img src="api_key.png" alt="api key" width="400">
+<br><br><img src="images/api_key.png" alt="api key" width="400">
 
 9. After pasting your API key, simply run the `main.py` file.
 <br><br>
