@@ -57,7 +57,7 @@ To check the versions, run
 
 4. You need paste your Open Weather API key. To get your own API key, visit https://openweathermap.org/api
 
-5. Click the **Sign in/ Sign up** buttom in the top right corner
+5. Click the **Sign in/ Sign up** button in the top right corner
 
 6. After logging into your account, navigate to your `{account} --> My API keys` in the top right
 <br><br><img src="images/account_dropdown.png" alt="account dropdown" width="175">
